@@ -1,7 +1,6 @@
 # Laravel Tap Payments
 
-[![Latest Version](https://img.shields.io/packagist/v/flexo/laravel-tap-payments.svg?style=flat-square)](https://packagist.org/packages/flexo/laravel-tap-payments)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/flexo-nexus/laravel-tap-payments/tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/flexo-nexus/laravel-tap-payments/actions)
+[![Latest Version](https://img.shields.io/packagist/v/flexonexus/laravel-tap-payments.svg?style=flat-square)](https://packagist.org/packages/flexo/laravel-tap-payments)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](#-license)
 
 > 🚀 Elegant Laravel integration with [Tap Payments](https://www.tap.company/): charges, refunds, webhooks — the clean Laravel way.
