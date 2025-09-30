@@ -118,7 +118,7 @@ $charge = Tap::retrieveCharge($charge['id']);
 ### Refund a Charge
 ```php
 $refund = Tap::refundCharge($charge['id'], [
-    'amount' => 150,
+    'amount' => 50,
     'reason' => 'customer_request'
 ]);
 ```
